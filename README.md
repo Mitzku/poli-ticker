@@ -9,4 +9,4 @@ Themen:
 - App vs Web fist
 - functionalities?
 - wie automatisch jeden tag checken lassen?
-- 
+- Filtern von Ergebnissen auf der Webpage
