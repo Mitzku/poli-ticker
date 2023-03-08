@@ -8,7 +8,8 @@ Themen:
 - Daten putzen
 - App vs Web fist
 - functionalities?
-- - recent tweets / social media ads
-- - dashboard
+  - recent tweets / social media ads
+  - dashboard
+  - boulevard
 - wie automatisch jeden tag checken lassen?
 - Filtern von Ergebnissen auf der Webpage
