@@ -15,3 +15,16 @@ Themen:
 - Filtern von Ergebnissen auf der Webpage
 - URL verlinkt bei 'Keine auf Bundestagsseite'
 - startseite carousel und snippets anzeigen
+- improvements scraping: 
+  - partei
+  - foto url
+  - geolocation wahlkreis?
+  - Beruf
+  - links zu redebeiträgen
+- Facebook
+  - Werbeeinköufe
+  - letzte posts 
+  - einbetten?
+- Twitter
+  - tweets
+  - connections
