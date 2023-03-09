@@ -14,3 +14,4 @@ Themen:
 - wie automatisch jeden tag checken lassen?
 - Filtern von Ergebnissen auf der Webpage
 - URL verlinkt bei 'Keine auf Bundestagsseite'
+- startseite carousel und snippets anzeigen
