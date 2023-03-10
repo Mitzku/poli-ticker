@@ -1,6 +1,6 @@
 # poli-ticker
 
-Letzte Zeit um Bundestagswebseite zu scrapen:  3801.5308949947357 seconds
+Letzte Zeit um Bundestagswebseite zu scrapen:  2283.9095923900604 seconds
 
 Themen:
 - Ausscheidende Politiktreibende
