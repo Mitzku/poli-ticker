@@ -11,6 +11,7 @@ Themen:
   - recent tweets / social media ads
   - dashboard
   - boulevard
+  - geolocation & PLZ von wahlkreis abgeleitet
   - Facebook
     - Werbeeinköufe
     - letzte posts 
@@ -23,9 +24,5 @@ Themen:
 - URL verlinkt bei 'Keine auf Bundestagsseite'
 - startseite carousel und snippets anzeigen
 - improvements scraping: 
-  - partei
-  - foto url
-  - geolocation wahlkreis?
-  - Beruf
   - links zu redebeiträgen
 
