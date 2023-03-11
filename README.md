@@ -1,11 +1,15 @@
 # poli-ticker
 
-Letzte Zeit um Bundestagswebseite zu scrapen:  2283.9095923900604 seconds
+Notes
+- Letzte Zeit um Bundestagswebseite zu scrapen:  2283.9095923900604 seconds
+- Seid Einbau der img_rul auf /politiker ist die ladezeit merkbar angestiegen
 
 Themen:
 - Ausscheidende Politiktreibende
 - Namenswechsel 
-- Daten putzen
+- Daten putzen (
+  - landeslistenplätze (bisher none) und nicht erkannte wahlkreise
+  - img_url wird beim scrapen scheinbar abgeschnitten manchmal 
 - App vs Web fist
 - functionalities?
   - recent tweets / social media ads
