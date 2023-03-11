@@ -30,4 +30,5 @@ Themen:
 - startseite carousel und snippets anzeigen
 - improvements scraping: 
   - links zu redebeiträgen
+  - bei manchen websiten werden die abstimmungen nicht mitausgelesen, e.g. https://www.bundestag.de/abgeordnete/biografien/G/gruender_nils-860540
 
