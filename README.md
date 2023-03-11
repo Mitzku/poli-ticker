@@ -15,6 +15,7 @@ Themen:
   - recent tweets / social media ads
   - dashboard
   - boulevard
+  - letzte headlines & news oder erwähnungen
   - geolocation & PLZ von wahlkreis abgeleitet
   - Facebook
     - Werbeeinköufe
