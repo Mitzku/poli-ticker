@@ -2,7 +2,9 @@
 
 Notes
 - Letzte Zeit um Bundestagswebseite zu scrapen:  2283.9095923900604 seconds
-- Seid Einbau der img_rul auf /politiker ist die ladezeit merkbar angestiegen
+- Seid Einbau der img_rul auf /politiker ist die ladezeit merkbar angestiegen. könnte daran lieen, das ich auf politiker den ganzen df schicke und nicht nur werte?
+- Profilseiten gehen nur manchmal weil scheinbar die Daten nicht in der db sind... dürfte am scrapen liegen. Ich habe lediglich 195 von 747 IDs in df_abstimmungen_selenium
+- webscraper macht auf einmal issues ohne erkennbaren grund. ging vorhin noch mit demselben script...
 
 Themen:
 - Ausscheidende Politiktreibende
